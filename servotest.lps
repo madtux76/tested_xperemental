@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="servotest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="4"/>
+        <CursorPos X="10" Y="23"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="delay.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="9" Y="7"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="8" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="16" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="delay.pas"/>
+        <Caret Line="40" Column="39" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="delay.pas"/>
+        <Caret Line="7" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="5" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="22" Column="19" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="20" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="27" Column="31" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="16" Column="35" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="12" Column="43"/>
+      </Position>
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="53" Column="15" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="servotest.lpr"/>
+        <Caret Line="48" Column="6" TopLine="25"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
